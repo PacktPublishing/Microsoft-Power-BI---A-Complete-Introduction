@@ -1,5 +1,5 @@
 # Microsoft Power BI - A Complete Introduction
-This is the code repository for [Microsoft Power BI - A Complete Introduction](https://www.packtpub.com/application-development/layout-and-constraints-android-video?utm_source=github&utm_medium=repository&utm_campaign=9781789809404), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for Microsoft Power BI - A Complete Introduction, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 This course will take you on a journey where you'll you will learn why Power BI offers you a comprehensive set of Business Intelligence tools for your data analysis goals and how to use these tools in the required way. Quickly structure your data, easily add calculations to it, and create and publish nice-looking charts in just a few minutes. You will learn about different tools in the Power BI universe, understand Power BI Desktop and its components, and lot more. 
 
