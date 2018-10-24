@@ -1,0 +1,16 @@
+Further Resources
+Section 8, Lecture 125
+In this module, we had a basic look at creating our own visuals for Power BI. Of course, you can dive much deeper - here are some helpful resources:
+
+The basics:
+
+Getting started with HTML and web development: https://developer.mozilla.org/en-US/docs/Learn
+Getting started with JavaScript: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+The TypeScript manual: http://www.typescriptlang.org/docs/home.html
+Understanding D3.js: https://www.dashingd3js.com/table-of-contents
+SVG Tutorial: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+Diving deeper into Power BI Custom Visuals:
+
+Downloading and using custom visuals: https://powerbi.microsoft.com/en-us/documentation/powerbi-custom-visuals-office-store/
+Microsoft materials on custom visuals: https://powerbi.microsoft.com/en-us/documentation/powerbi-custom-visuals/
+Custom visual guide on Github: https://github.com/Microsoft/PowerBI-visuals
