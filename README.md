@@ -13,9 +13,6 @@ This course will take you on a journey where you'll you will learn why Power BI 
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is designed for people who have never worked with Power BI and who want to understand how to use these tools, those interested in learning how to connect the different Power BI tools with each other, and those who want to understand how to create customized visuals with the Power BI Developer tools.
-### Technical Requirements
-This course has the following software requirements:<br/>
-      
 
 ## Related Products
 * [Learning Microsoft Power BI [Video]](https://www.packtpub.com/application-development/layout-and-constraints-android-video?utm_source=github&utm_medium=repository&utm_campaign=9781789809404)
