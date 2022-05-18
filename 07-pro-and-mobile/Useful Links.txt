@@ -1,0 +1,7 @@
+Useful Links
+
+Power BI Pricing
+https://powerbi.microsoft.com/en-us/pricing/
+
+Download Gateway
+https://powerbi.microsoft.com/en-us/gateway/

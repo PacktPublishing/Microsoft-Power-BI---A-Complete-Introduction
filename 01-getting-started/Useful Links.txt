@@ -1,0 +1,7 @@
+Useful Links
+
+Power BI - Official Website
+https://powerbi.microsoft.com/en-us/
+
+GitHub link for this course:
+https://github.com/academind/power-bi-course-resources
